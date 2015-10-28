@@ -1,2 +1,2 @@
-# kahrom.github.io
-web test static
+# akhlul kahrom
+web test static pake tempalte contoh senditi, :3
